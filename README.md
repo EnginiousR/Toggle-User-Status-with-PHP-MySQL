@@ -74,4 +74,3 @@ PHP
 MySQL
 HTML / CSS
 JavaScript (jQuery)
-python
