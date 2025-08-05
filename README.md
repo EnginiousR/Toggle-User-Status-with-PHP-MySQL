@@ -74,3 +74,7 @@ PHP
 MySQL
 HTML / CSS
 JavaScript (jQuery)
+
+## 🖼️ Preview
+
+![App Preview](screenshot.png)
